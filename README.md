@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+My name is Sebastian Tibaquirá, and I am from Colombia
+I am a mechatronics engineer
+
+🔭 I’m currently working for [@Choucair Testing](https://www.choucairtesting.com/) as a QA.
+🌱 I’m currently learning about development engineering and software.
+🤔 I’m looking for help with Java programming and OOP.
+📫 How to reach me: write to my email when you want johnsebas94@gmail.com
+
+## Skills
+♾️  Arduino
+📏  Matlab
+ 🧩 C#
 <!--
 **johnsebas94/johnsebas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
